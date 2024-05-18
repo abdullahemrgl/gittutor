@@ -1,4 +1,4 @@
-# get messge
+# get message
 msg: str = input("Type your message:")
 
 # show message
