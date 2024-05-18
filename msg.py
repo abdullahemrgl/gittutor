@@ -1,5 +1,5 @@
 # get messge
-msg = input("Type your message:")
+msg: str = input("Type your message:")
 
 # show message
-print("Your Message:", msg)
+print(f"Your Message: {msg}")
