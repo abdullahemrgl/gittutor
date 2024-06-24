@@ -1,5 +1,3 @@
-# get message
-msg: str = input("Type your message:")
-
 # show message
-print(f"Your Message: {msg}")
+def show(msg: str):
+    print(f"Your Message: {msg}")
